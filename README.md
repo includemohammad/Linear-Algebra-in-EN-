@@ -24,7 +24,7 @@ Code Implementations: پیاده‌سازی الگوریتم‌های جبر خ�
 
 1. ریپازیتوری را کلون کنید:
 
-git clone https://github.com/YourUsername/Linear-Algebra-in-EN.git
+git clone https://github.com/includemohammad/Linear-Algebra-in-EN-.git
 
 
 2. به دایرکتوری پروژه بروید:
